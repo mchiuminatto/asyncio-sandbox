@@ -1,0 +1,15 @@
+2024-06-12 16:33:07 - INFO - Emmiting event for task 1
+2024-06-12 16:33:07 - INFO - Sleeping task 1
+2024-06-12 16:33:07 - INFO - Emmiting event for task 2
+2024-06-12 16:33:07 - INFO - Sleeping task 2
+2024-06-12 16:33:07 - INFO - Emmiting event for task 3
+2024-06-12 16:33:07 - INFO - Sleeping task 3
+2024-06-12 16:33:09 - INFO - Waking up task 1
+2024-06-12 16:33:09 - INFO - Waking up task 2
+2024-06-12 16:33:09 - INFO - Waking up task 3
+2024-06-12 16:33:09 - INFO - Entering callback with value -2.1230173711561116 called from task 1
+2024-06-12 16:33:14 - INFO - Processing result from task 1, -2.1230173711561116
+2024-06-12 16:33:14 - INFO - Entering callback with value -2.6506803909483767 called from task 2
+2024-06-12 16:33:19 - INFO - Processing result from task 2, -2.6506803909483767
+2024-06-12 16:33:19 - INFO - Entering callback with value 8.173879632731282 called from task 3
+2024-06-12 16:33:24 - INFO - Processing result from task 3, 8.173879632731282
