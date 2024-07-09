@@ -20,8 +20,8 @@ async def main():
 
 async def listen_for_connection(server_socket: socket, loop: AbstractEventLoop):
     """
-    Listen for connections in ani infinite loop. Each time receives one creates a task
-    ( echo ) thta reads and echo data from client socket
+    Listen for connections in an infinite loop. Each time receives one creates a task
+    ( echo ) that reads and echo data from/to client socket
 
     """
     while True:
