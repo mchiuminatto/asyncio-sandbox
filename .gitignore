@@ -2,3 +2,14 @@
 
 *.pyc
 *.txt
+.idea/
+__pycache__/
+.DS_Store
+*.log
+*.sqlite3
+*.env
+.env.*
+*.bak
+*.swp
+*.swo
+*.tmp
